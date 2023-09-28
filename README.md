@@ -26,5 +26,9 @@ It is a program that allows you to mimic regular desk sticky notes on your PC, w
 
 Overall, this project serves as a basic introduction to working with databases (SQLite3) in Python and creating a graphical user interface (Tkinter).
 
+Screenshot:
+<img width="376" alt="image" src="https://github.com/anavisomi7/jotitdown/assets/94074307/a067dccb-89f9-4f00-92f0-a4daeaef069a">
+
+
 
  
