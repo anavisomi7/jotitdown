@@ -1,4 +1,5 @@
-##JOT-IT-DOWN
+**JOT-IT-DOWN**
+
 Notes-taking is a method of jotting down important information for reminders, chores, and other purposes. This keeps us informed about what has to be done and prevents us from neglecting critical duties. I have created a basic Python version of the Pin Your Note project, integrating it with SQL to save the notes. 
 
 It is a program that allows you to mimic regular desk sticky notes on your PC, which is like a TO-DO-LIST. It is designed so you can focus with no distractions, everytime you open up, you can save a new version of your notes to the current database. Sticky Notes works on all major platforms that support Python3 (E.g. Linux, macOS, Windows, etc.).
